@@ -2,22 +2,22 @@
   "name": "react-native-b-crypt-bridge",
   "title": "React Native B Crypt Bridge",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "React Native B Crypt Bridge",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-b-crypt-bridge.git",
-    "baseUrl": "https://github.com/github_account/react-native-b-crypt-bridge"
+    "url": "git+https://github.com/vbridier/react-native-b-crypt-bridge.git",
+    "baseUrl": "https://github.com/vbridier/react-native-b-crypt-bridge"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Vincent BRIDIER",
+    "email": "vincent@bridier.me"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
